@@ -73,6 +73,13 @@ main .screen .ecran {
 
 .tf{
     padding: .5em;
+    background: violet;
+    border-radius: 7px;
+    color: white;
+}
+
+.tf:hover{
+    background: var(--big-purple);
 }
 
 .label {
